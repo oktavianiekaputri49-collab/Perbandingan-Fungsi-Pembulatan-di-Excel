@@ -1,0 +1,36 @@
+📊 Perbandingan Fungsi Pembulatan di Excel
+Deskripsi
+Proyek ini berfokus pada analisis berbagai metode pembulatan angka menggunakan Microsoft Excel untuk memahami perbedaan hasil dari setiap fungsi.
+
+Dataset
+Data terdiri dari beberapa kasus:
+- Pembulatan angka umum
+- Data stok barang
+- Data nilai siswa
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- ROUND
+- ROUNDUP
+- ROUNDDOWN
+- FLOOR
+- CEILING
+- MROUND
+
+Hasil Analisis
+- ROUND menghasilkan pembulatan ke nilai terdekat
+- ROUNDUP selalu membulatkan ke atas
+- ROUNDDOWN selalu membulatkan ke bawah
+- FLOOR dan CEILING digunakan untuk batas tertentu
+- MROUND membulatkan ke kelipatan tertentu
+
+Tujuan Proyek
+- Memahami perbedaan fungsi pembulatan di Excel
+- Membandingkan hasil dari berbagai metode
+- Mengaplikasikan pembulatan pada berbagai jenis data
+
+Insight
+Pemilihan metode pembulatan yang tepat sangat penting karena dapat mempengaruhi hasil analisis dan pengambilan keputusan.
+
+Penutup
+Proyek ini merupakan latihan analisis fungsi pembulatan untuk meningkatkan pemahaman dalam pengolahan data numerik menggunakan Excel.
